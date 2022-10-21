@@ -37,3 +37,7 @@ Red Led Blink 300ms delay and osDelay(1)
 Blue Led Blink 400ms delay and osDelay(1)
 #### TASK5
 USART Communication via USART 2
+
+![WhatsApp Video 2022-10-22 at 02 02 58](https://user-images.githubusercontent.com/70964563/197303202-676d54ca-18e2-4442-8eed-5fc497b2a6e0.gif)
+
+![image](https://user-images.githubusercontent.com/70964563/197303224-8547d6af-f485-41e6-8a99-2ceebcd62412.png)
