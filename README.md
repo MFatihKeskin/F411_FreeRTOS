@@ -14,10 +14,15 @@ User and Wake-Up button connected to the I/O PA0 of the STM32F411VET6
 
 ##### USART 2
 PA3->Rx
+
 PA2->Tx
+
 Baudrate->115200
+
 WordLength->8Bits(İncluding Parity)
+
 StopBits->1
+
 Parity->None
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
